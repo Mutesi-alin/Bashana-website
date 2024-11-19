@@ -71,7 +71,7 @@ const TeamSection = () => {
       name: "Hagenimana Viateur",
       role: "Finance",
       description: "I am an accountant of Bashana companies and we've pushed our limit so far to make it successful.",
-      image: "/images/aman.jpeg",
+      image: "/images/via.jpeg",
       socials: {
         twitter: "#",
         instagram: "#",
@@ -82,7 +82,7 @@ const TeamSection = () => {
       name: "Mutoni yvonne",
       role: "Cashier",
       description: "I've been cashier for Bashana companies since the beginning of it and enjoyed every bit.",
-      image: "/images/X.jpeg",
+      image: "/images/kabanga.jpg",
       socials: {
         twitter: "#",
         instagram: "#",

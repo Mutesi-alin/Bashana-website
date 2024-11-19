@@ -46,14 +46,14 @@ const SocialIcon = ({ type }: { type: SocialType }) => {
 const TeamSection = () => {
   const teamMembers: TeamMember[] = [
     {
-      name: "Charlse Ashimwe",
+      name: "Charles Ashimwe",
       role: "Founder & CEO ",
       description: "I've established Bashana companies  in 2018 and it was one of the best idea I've had in my life.",
       image: "/images/Screenshot from 2024-11-17 17-03-25.png",
       socials: {
         twitter: "#",
         instagram: "https://www.instagram.com/bashana_imigongo/p/C23-XxHtOIz/?img_index=1",
-        linkedin: "#"
+        linkedin: "https://www.linkedin.com/in/charles-ashimwe-378542152/"
       }
     },
     {

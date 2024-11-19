@@ -57,28 +57,28 @@ const CoffeeDetail: React.FC<{ onClose: () => void }> = ({ onClose }) => {
       id: 3,
       title: 'Club sandwich',
       imageUrl: '/images/food3.jpeg',
-      price: '$4.00',
+      price: '$14.00',
       description: 'Smooth latte with artisan foam design'
     },
     {
       id: 4,
       title: 'Burrito',
       imageUrl: '/images/food2.jpeg',
-      price: '$3.00',
+      price: '$13.00',
       description: 'Bold americano with smooth finish'
     },
     {
       id: 4,
       title: 'Chicken wings',
       imageUrl: '/images/food1.jpeg',
-      price: '$3.00',
+      price: '$13.00',
       description: 'Bold americano with smooth finish'
     },
     {
       id: 4,
       title: 'Chicken curry',
       imageUrl: '/images/food5.jpeg',
-      price: '$3.00',
+      price: '$13.00',
       description: 'Bold americano with smooth finish'
     },
 
@@ -86,28 +86,28 @@ const CoffeeDetail: React.FC<{ onClose: () => void }> = ({ onClose }) => {
       id: 4,
       title: 'Blue Mojito',
       imageUrl: '/images/Blue Mojito.jpeg',
-      price: '$3.00',
+      price: '$20.00',
       description: 'Bold americano with smooth finish'
     },
     {
       id: 4,
       title: 'pina colado',
       imageUrl: '/images/Home _ Baked Bree.jpeg',
-      price: '$3.00',
+      price: '$23.00',
       description: 'Bold americano with smooth finish'
     },
     {
       id: 4,
       title: 'Tequila Sunrise',
       imageUrl: '/images/Tequila Sunset.jpeg',
-      price: '$3.00',
+      price: '$23.00',
       description: 'Bold americano with smooth finish'
     },
     {
       id: 4,
       title: 'Tequila Sunrise',
       imageUrl: '/images/Tequila Sunset.jpeg',
-      price: '$3.00',
+      price: '$23.00',
       description: 'Bold americano with smooth finish'
     },
     
@@ -295,7 +295,7 @@ const MenuCards: React.FC = () => {
           id: 5,
           title: 'Local Artwork',
           imageUrl: '/images/PXL_20241119_060815597.jpg',
-          price: '$49.99',
+          price: '$1000',
           description: 'Original pieces from local artists'
         },
         {

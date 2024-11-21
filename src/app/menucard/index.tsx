@@ -58,28 +58,28 @@ const CoffeeDetail: React.FC<{ onClose: () => void }> = ({ onClose }) => {
       title: 'Club sandwich',
       imageUrl: '/images/food3.jpeg',
       price: '$14.00',
-      description: 'Smooth latte with artisan foam design'
+      description: 'Homemade sandwich, chicken, fried egg, ham, and cheese'
     },
     {
       id: 4,
       title: 'Burrito',
       imageUrl: '/images/food2.jpeg',
       price: '$13.00',
-      description: 'Bold americano with smooth finish'
+      description: 'with rice/beans/cabbage/guacamole/kachumber salade/sweet corn and ch'
     },
     {
       id: 4,
       title: 'Chicken wings',
       imageUrl: '/images/food1.jpeg',
       price: '$13.00',
-      description: 'Bold americano with smooth finish'
+      description: 'Served with fries or rice or salad'
     },
     {
       id: 4,
       title: 'Chicken curry',
       imageUrl: '/images/food5.jpeg',
       price: '$13.00',
-      description: 'Bold americano with smooth finish'
+      description: 'Tender chicken in hot curry sauce served with rice/chapat/ plantain and Kachumber salade'
     },
 
     {
@@ -87,14 +87,14 @@ const CoffeeDetail: React.FC<{ onClose: () => void }> = ({ onClose }) => {
       title: 'Blue Mojito',
       imageUrl: '/images/Blue Mojito.jpeg',
       price: '$20.00',
-      description: 'Bold americano with smooth finish'
+      description: 'Light rum, club soda, fresh mint  leaves'
     },
     {
       id: 4,
       title: 'pina colado',
       imageUrl: '/images/Home _ Baked Bree.jpeg',
       price: '$23.00',
-      description: 'Bold americano with smooth finish'
+      description: 'Rum,grenadine,pineapple juice, orange juice served on the rock'
     },
     {
       id: 4,
@@ -108,7 +108,7 @@ const CoffeeDetail: React.FC<{ onClose: () => void }> = ({ onClose }) => {
       title: 'Tequila Sunrise',
       imageUrl: '/images/Tequila Sunset.jpeg',
       price: '$23.00',
-      description: 'Bold americano with smooth finish'
+      description: 'Tequila,grenadine, orange juice served on the rock'
     },
     
   ];
